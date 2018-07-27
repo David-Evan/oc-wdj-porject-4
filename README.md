@@ -1,4 +1,4 @@
-#OC-WDJ-Project-4
+#oc-wdj-project-4
 
 Wordpress learning developpement repository
 
