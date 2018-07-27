@@ -45,8 +45,8 @@ $current_url = tribe_events_get_current_filter_url();
 		<div id="tribe-bar-views" class="tribe-bar-views-open">
 		   <div class="tribe-bar-views-inner tribe-clearfix">
 		      <h3 class="tribe-events-visuallyhidden">Évènement Views Navigation</h3>
-		      <label>Options d’affichage</label>
-		      <select class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view" aria-label="View Évènements As" style="display: none;">
+		      <label for="EventFormSelectView">Options d’affichage</label>
+		      <select id="EventFormSelectView" class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view" aria-label="View Évènements As" style="display: none;">
 		         <option <?php if (strpos($current_url, 'events/liste') == false) echo 'tribe-inactive=""'; else echo 'selected=""'; ?>  value="http://wdj-project-4.exanys.fr/index.php/events/liste/" data-view="list">
 		            Liste
 		         </option>
