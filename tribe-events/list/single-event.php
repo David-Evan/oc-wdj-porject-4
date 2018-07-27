@@ -38,7 +38,7 @@ $organizer = tribe_get_organizer();
 
 			<!-- Reservation form  -->
 <div class="tribe-events-reservation">
-	<a class="btn btn-theme-primary btn-md" href="#">Réservation</a>
+	<a class="btn btn-theme-primary btn-md" href="#">Inscription</a>
 </div>
 
 <div class="tribe-events-event-meta">
