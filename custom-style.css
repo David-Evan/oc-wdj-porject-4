@@ -544,6 +544,11 @@
      padding-left: 8px;
      padding-right: 8px;
 }
+
+.onepress-menu>li.current-menu-item>a{
+    color: #fbb52d;
+}
+
  .search-submit {
      position: relative;
      bottom: 2px;
