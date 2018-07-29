@@ -551,7 +551,7 @@
 
  .search-submit {
      position: relative;
-     bottom: 2px;
+     bottom: 1px;
 }
  .btn-theme-primary:hover{
      background-color: #fcc457;
