@@ -590,6 +590,22 @@
      .container {
          width: 1200px;
     }
+	 
+    .type-tribe_events{
+        display: flex;
+    }
+
+    .tribe-events-list-event-title{
+        width: 370px;
+    }
+
+    .tribe-events-event-meta{
+        width: 300px;
+    }
+
+    .tribe-events-reservation{
+        order: 4
+    }
 }
  @media screen and (min-width:1140px) and (max-width:1250px) {
      .onepress-menu a {
